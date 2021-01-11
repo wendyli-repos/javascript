@@ -11,12 +11,8 @@ Some JavaScript Exercises
 3. Write a JavaScript program to get the current date. (20210108\*)
 4. Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7. (20210108\*)
 5. Write a JavaScript program to rotate the string 'w3resource' in right direction by periodically removing one letter from the end of the string and attaching it to the front. (20210108\*\*\*)
-6. Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar. Go to the editor
-   Click me to see the solution
-
-7. Write a JavaScript program to find 1st January is being a Sunday between 2014 and 2050. Go to the editor
-   Click me to see the solution
-
+6. Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar. (20210111\*)
+7. Write a JavaScript program to find 1st January is being a Sunday between 2014 and 2050. (20210111\*) [Date()]
 8. Write a JavaScript program where the program takes a random integer between 1 to 10, the user is then prompted to input a guess number. If the user input matches with guess number, the program will display a message "Good Work" otherwise display a message "Not matched". Go to the editor
    Click me to see the solution
 
